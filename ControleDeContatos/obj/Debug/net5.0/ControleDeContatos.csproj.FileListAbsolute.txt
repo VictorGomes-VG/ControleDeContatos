@@ -360,3 +360,6 @@ C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\Contr
 C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ControleDeContatos.genruntimeconfig.cache
 C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\ref\ControleDeContatos.dll
 C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Index.cshtml.g.cs
+C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Criar.cshtml.g.cs
+C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\Editar.cshtml.g.cs
+C:\Users\victo\Desktop\MVC\ProjetoBase\ControleContatos\ControleDeContatos\ControleDeContatos\obj\Debug\net5.0\Razor\Views\Contato\ApagarConfirmacao.cshtml.g.cs
